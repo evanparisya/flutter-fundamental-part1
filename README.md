@@ -1,16 +1,16 @@
-# hello_world
+NAMA : Evan Parisya A
+NIM  : 2341720179
 
-A new Flutter project.
+***
+1: Membuat Project Flutter Baru
 
-## Getting Started
+<img width="1680" height="837" alt="image" src="https://github.com/user-attachments/assets/ab3c8c18-f4bc-4f77-a834-8fb0b274a686" />
 
-This project is a starting point for a Flutter application.
+***
+2: Menghubungkan Perangkat Android atau Emulator
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1458" height="361" alt="image" src="https://github.com/user-attachments/assets/687f06e0-f7be-4512-9f06-db9c5d2df798" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+***
+3: Membuat Repository GitHub dan Laporan Praktikum
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
