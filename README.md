@@ -26,3 +26,9 @@ NIM  : 2341720179
 ***
 5: Menerapkan Widget Material Design dan iOS Cupertino
 
+Main : <img width="929" height="991" alt="image" src="https://github.com/user-attachments/assets/502f0530-744d-42fc-ba52-0ca48830854b" />
+
+fab_widget : <img width="554" height="517" alt="image" src="https://github.com/user-attachments/assets/5cf2dce9-71e6-4569-8a79-431e762c6e84" />
+
+loading_cupertino : <img width="671" height="698" alt="image" src="https://github.com/user-attachments/assets/87e6f160-fecf-485f-ac27-dd55d6a079ec" />
+
