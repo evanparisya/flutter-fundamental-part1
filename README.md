@@ -1,16 +1,28 @@
-# hello_world
+NAMA : Evan Parisya A
+NIM  : 2341720179
 
-A new Flutter project.
+***
+1: Membuat Project Flutter Baru
 
-## Getting Started
+<img width="1680" height="837" alt="image" src="https://github.com/user-attachments/assets/ab3c8c18-f4bc-4f77-a834-8fb0b274a686" />
 
-This project is a starting point for a Flutter application.
+***
+2: Menghubungkan Perangkat Android atau Emulator
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1458" height="361" alt="image" src="https://github.com/user-attachments/assets/687f06e0-f7be-4512-9f06-db9c5d2df798" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+***
+3: Membuat Repository GitHub dan Laporan Praktikum
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1919" height="598" alt="image" src="https://github.com/user-attachments/assets/6d983bae-e78b-4433-a03b-019b2f8034e9" />
+
+***
+4: Menerapkan Widget Dasar
+
+<img width="657" height="388" alt="image" src="https://github.com/user-attachments/assets/e33f3e98-3d72-453b-b40b-793f5ba4863f" />
+
+<img width="632" height="355" alt="image" src="https://github.com/user-attachments/assets/c5ef2d11-082d-4041-9d93-05d2b67ebeed" />
+
+***
+5: Menerapkan Widget Material Design dan iOS Cupertino
+
